@@ -6,3 +6,10 @@ html, body {
 canvas {
   display: block;
 }
+
+h{
+
+  font-size: 60px;
+  font-style: italic;
+  font-variant: small-caps;
+}
